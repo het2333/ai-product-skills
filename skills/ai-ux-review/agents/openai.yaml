@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 产品体验审查"
+  short_description: "审查 AI 流程中的输入、结果复核、异常恢复与人工确认边界"
+  default_prompt: "请用 $ai-ux-review 检查这条 AI 功能流程，给出证据、修改建议和验证方式。"

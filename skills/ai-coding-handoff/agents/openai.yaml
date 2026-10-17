@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Coding 任务交接"
+  short_description: "把产品方案转成包含页面、接口、数据与验证条件的开发任务包"
+  default_prompt: "请用 $ai-coding-handoff 把这份产品方案整理成可执行的开发任务。"

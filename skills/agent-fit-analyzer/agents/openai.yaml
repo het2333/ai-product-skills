@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent 适用性判断"
+  short_description: "比较规则、助手、工作流与智能体，明确自主范围和人工交接位置"
+  default_prompt: "请用 $agent-fit-analyzer 判断这段业务流程需要哪些 AI 能力与执行边界。"

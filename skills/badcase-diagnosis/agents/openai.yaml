@@ -1,0 +1,4 @@
+interface:
+  display_name: "BadCase 诊断"
+  short_description: "依据原始输入、日志和版本定位失败环节，形成可回归的修复建议"
+  default_prompt: "请用 $badcase-diagnosis 分析这些失败样本，先定位首个有证据的偏离点。"
